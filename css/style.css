@@ -70,9 +70,13 @@ header {
   text-decoration: none;
 }
 
+
 .main{
   overflow: hidden;
+  text-decoration: none;
 }
+
+
 .left-contents{
   float: left;
   width: 60%;
@@ -80,16 +84,16 @@ header {
 
 .card-contents{
   width: 100%;
-  margin: 20px auto;
+  margin: 10px auto;
 }
-.content{
+.contents{
   overflow: hidden;
 }
 
-.image-area{
+.images-area{
   float: left;
   width: 20%;
-  height: 100px;
+  height: 120px;
 }
 
 .blog-image {
